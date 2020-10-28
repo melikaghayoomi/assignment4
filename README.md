@@ -1,12 +1,11 @@
 # Assignment 4
+### Cluster Analysis
+
 Clustering
 
 In the attached files you will find instructions for assignment 3. Please **fork** this repository to your own Github account and then clone it in RStudio.
 
 Good luck!
-
-# Assignment 4
-### Cluster Analysis
 
 In Assignment 4 we will be looking at some class motivation data collected from this class two years ago. You will be expected to cluster and visualize the clusters.
 
