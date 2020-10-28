@@ -146,7 +146,7 @@ Look at the number of people in each cluster, now repeat this process for 3 rath
 
 ##Part II
 
-Using the data collected in the HUDK4050 entrance survey use K-means to cluster the students first according location (lat/long) and then according to their answers to the questions so that each student belongs to two clusters.
+Using the data collected in the HUDK4050 entrance survey (HUDK4050-cluster.csv) use K-means to cluster the students first according location (lat/long) and then according to their answers to the questions, each student should belong to two clusters.
 
 ##Part III
 
